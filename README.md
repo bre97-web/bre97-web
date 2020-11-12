@@ -17,3 +17,11 @@ class call {
     }
 }
 ```
+```C++
+int main() {
+    using namespace std;
+    cout<< "HelloWorld\n";
+    
+    return 0;
+}
+```

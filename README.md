@@ -20,7 +20,7 @@ class call {
 ```C++
 int main() {
     using namespace std;
-    cout<< "HelloWorld\n";
+    cout<< "Hello GitHub.";
     
     return 0;
 }

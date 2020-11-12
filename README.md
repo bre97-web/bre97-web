@@ -1,2 +1,3 @@
-## Hello GitHub :smile:
-I like this , prefer GitHub to Gitee . :worried:
+## Hello GitHub. :smile:
+I worry about myself , a bad student one.  . :worried:  
+But I can strive. :fist:

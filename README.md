@@ -1,7 +1,7 @@
 ## Hello GitHub & 2021. :smile:
 ```C
 int main(void) {
-    printf("%s" , "Hello GitHub.");
+    printf("%s\n" , "Hello GitHub.");
 
     return 0;
 }
